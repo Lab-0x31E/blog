@@ -1,0 +1,30 @@
+# Site settings
+title: "Lab 0x31E"
+email: wumin156@gmail.com
+description: "The blog site of Lab 0x31E."
+baseurl: ""
+url: "http://carte-noire.jacobtomlinson.co.uk/"
+title_description: "The blog site of Lab 0x31E."
+title_image: "https://www.360totalsecurity.com/images/logo.png"
+google_analytics: "UA-72059276-1"
+disqus_account: disqus_NWm2Ry9Bny
+github_repository: https://github.com/Lab-0x31E/blog
+addthis_id: 
+post_limit: 5
+
+# Social usernames/URLs
+twitter_username: 
+github_username:  Lab 0x31E
+google_plus_link: 
+stackoverflow_link: 
+
+# Footer
+#footer_left: "Made by <a href=\"https://github.com/Lab-0x31E\">Lab 0x31E</a> <i class=\"fa fa-shield\"></i>"
+#footer_right: "&lt;/&gt; on <a href=\"https://github.com/Lab-0x31E\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
+
+# Build settings
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
+permalink: pretty
+exclude: [vendor]
