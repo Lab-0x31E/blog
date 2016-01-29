@@ -3,7 +3,7 @@ title: "Lab 0x31E"
 email: wumin156@gmail.com
 description: "The blog site of Lab 0x31E."
 baseurl: ""
-url: "http://carte-noire.jacobtomlinson.co.uk/"
+url: ""
 title_description: "The blog site of Lab 0x31E."
 title_image: "https://www.360totalsecurity.com/images/logo.png"
 google_analytics: "UA-72059276-1"
@@ -14,7 +14,7 @@ post_limit: 5
 
 # Social usernames/URLs
 twitter_username: 
-github_username:  Lab 0x31E
+github_username:  Lab-0x31E
 google_plus_link: 
 stackoverflow_link: 
 
